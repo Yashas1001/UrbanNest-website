@@ -655,7 +655,7 @@ a{
 
 .contact-hero {
     height: 40vh;
-    background: url('../images/hero.png') center/cover no-repeat;
+    background: url('/assets/images/hero.png') center/cover no-repeat;
     display: flex;
     align-items: center;
     position: relative;
